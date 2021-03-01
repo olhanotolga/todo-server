@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "a747419b-f924-4685-85c3-7f502c2a083f",
+      "text": "Test GET & POST requests",
+      "date": "3/1/21"
+    },
+    {
+      "id": "d9901e2e-09b5-423b-a0f3-555ecf059439",
+      "text": "Test PUT and DELETE requests",
+      "date": "3/1/21"
+    },
+    {
+      "id": "13e2a686-7f82-48d9-8a4b-af2334ff96ad",
+      "text": "Add error handling",
+      "date": "3/1/21"
+    }
+  ]
+}

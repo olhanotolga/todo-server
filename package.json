@@ -4,8 +4,14 @@
   "description": "backend for the todo-app project",
   "main": "index.js",
   "scripts": {
+	  "start": "nodemon server.js --ignore data/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "olhanotolga",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "uuid": "^8.3.2"
+  }
 }
